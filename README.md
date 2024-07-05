@@ -1,5 +1,6 @@
 # tourobss
-
+- 채지훈 개발 담당 파트
+- 웹 페이지와 카카오 로그인 구현
 ## Project setup
 ```
 npm install
