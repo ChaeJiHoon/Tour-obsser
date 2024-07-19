@@ -11,11 +11,9 @@
 
      
 ## ⚙️ 개발 환경
-**IDE** : Unity, Visual Studio Code, Intellij
-
-**language** : 'Java', 'Java Script', 'C#', 'Sql(TBD)'
-
-**Framework** : Vue.js, Node.js Spring
+- **IDE** : Unity, Visual Studio Code, Intellij
+- **language** : 'Java', 'Java Script', 'C#', 'Sql(TBD)'
+- **Framework** : Vue.js, Node.js Spring
 
 
 ## 📌 주요 기능
